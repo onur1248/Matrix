@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projem", "Projem\Projem.csproj", "{AABEBBE6-0D2C-4C57-B0ED-A3AC3AFE2760}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SyntaxNodes", "SyntaxNodes", "{3742F420-E8DB-4868-84EA-DBDA071D11E2}"
+	ProjectSection(SolutionItems) = preProject
+		Projem\SyntaxNodes\BracketClosing.cs = Projem\SyntaxNodes\BracketClosing.cs
+		Projem\SyntaxNodes\BracketOpening.cs = Projem\SyntaxNodes\BracketOpening.cs
+		Projem\SyntaxNodes\ISyntaxNode.cs = Projem\SyntaxNodes\ISyntaxNode.cs
+		Projem\SyntaxNodes\Neg.cs = Projem\SyntaxNodes\Neg.cs
+		Projem\SyntaxNodes\UnaryOperation.cs = Projem\SyntaxNodes\UnaryOperation.cs
+		Projem\SyntaxNodes\Var.cs = Projem\SyntaxNodes\Var.cs
+		Projem\SyntaxNodes\X.cs = Projem\SyntaxNodes\X.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{198FCAA8-5E1F-4FFC-9965-22AF6053B7C2}"
+	ProjectSection(SolutionItems) = preProject
+		Projem\SyntaxNodes\Functions\Abs.cs = Projem\SyntaxNodes\Functions\Abs.cs
+		Projem\SyntaxNodes\Functions\Cos.cs = Projem\SyntaxNodes\Functions\Cos.cs
+		Projem\SyntaxNodes\Functions\Ctg.cs = Projem\SyntaxNodes\Functions\Ctg.cs
+		Projem\SyntaxNodes\Functions\Function.cs = Projem\SyntaxNodes\Functions\Function.cs
+		Projem\SyntaxNodes\Functions\Log.cs = Projem\SyntaxNodes\Functions\Log.cs
+		Projem\SyntaxNodes\Functions\Sin.cs = Projem\SyntaxNodes\Functions\Sin.cs
+		Projem\SyntaxNodes\Functions\Tan.cs = Projem\SyntaxNodes\Functions\Tan.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinaryOperators", "BinaryOperators", "{772B58B1-5472-4C37-8C2C-68C83858EB05}"
+	ProjectSection(SolutionItems) = preProject
+		Projem\SyntaxNodes\BinaryOperations\Add.cs = Projem\SyntaxNodes\BinaryOperations\Add.cs
+		Projem\SyntaxNodes\BinaryOperations\BinaryOperation.cs = Projem\SyntaxNodes\BinaryOperations\BinaryOperation.cs
+		Projem\SyntaxNodes\BinaryOperations\Div.cs = Projem\SyntaxNodes\BinaryOperations\Div.cs
+		Projem\SyntaxNodes\BinaryOperations\Mul.cs = Projem\SyntaxNodes\BinaryOperations\Mul.cs
+		Projem\SyntaxNodes\BinaryOperations\Pow.cs = Projem\SyntaxNodes\BinaryOperations\Pow.cs
+		Projem\SyntaxNodes\BinaryOperations\Sub.cs = Projem\SyntaxNodes\BinaryOperations\Sub.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABEBBE6-0D2C-4C57-B0ED-A3AC3AFE2760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABEBBE6-0D2C-4C57-B0ED-A3AC3AFE2760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABEBBE6-0D2C-4C57-B0ED-A3AC3AFE2760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABEBBE6-0D2C-4C57-B0ED-A3AC3AFE2760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{198FCAA8-5E1F-4FFC-9965-22AF6053B7C2} = {3742F420-E8DB-4868-84EA-DBDA071D11E2}
+		{772B58B1-5472-4C37-8C2C-68C83858EB05} = {3742F420-E8DB-4868-84EA-DBDA071D11E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\bin\Debug\Projem.exe.config
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\bin\Debug\Projem.exe
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.Form1.resources
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.Properties.Resources.resources
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.csproj.GenerateResource.Cache
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.exe
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.csprojResolveAssemblyReference.cache
+C:\Users\Mavi\Desktop\Yapılacaklar\Dersler\C# Projesi\Projem\Projem\obj\Debug\Projem.Form2.resources
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\bin\Debug\Projem.exe.config
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.exe
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.pdb
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\bin\Debug\Projem.exe
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.csprojResolveAssemblyReference.cache
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.Form1.resources
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.Form2.resources
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.Properties.Resources.resources
+C:\Users\onure\Desktop\Çalışmalarım\C#\C# Uygulamaları\C# Projesi(MATRİS)\Projem\Projem\obj\Debug\Projem.csproj.GenerateResource.Cache
